@@ -1,0 +1,11 @@
+[importlinter]
+root_package = route_pilot
+
+[importlinter:contract:layers]
+name = Cosmic layers
+type = layers
+layers =
+    route_pilot.entrypoints
+    route_pilot.services
+    route_pilot.adapters
+    route_pilot.models

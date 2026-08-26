@@ -1,6 +1,8 @@
 # route-pilot
 
-组内包。人读这一屏。模型读 `AGENTS.md`。
+team-kit 第 12–14 天试点包：`spec 001` sequential makespan。人读这一屏。模型读 `AGENTS.md`。
+
+来自 <https://github.com/sunhl4/team-kit>，不要做文献调研。
 
 ```bash
 python3 -m pip install -e ".[dev]"

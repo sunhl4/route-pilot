@@ -1,5 +1,13 @@
 # plan 001
 
+## Exclusive paths
+
+- src/route_pilot/models/duration.py
+- src/route_pilot/services/makespan.py
+- src/route_pilot/entrypoints/cli.py
+- tests/test_makespan.py
+- tests/test_cli.py
+
 ## models
 DurationNs（禁负）。JobId。MakespanNs。
 

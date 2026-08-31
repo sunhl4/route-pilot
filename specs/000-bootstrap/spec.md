@@ -1,6 +1,6 @@
 # spec 000-bootstrap
 
-Gate: pass
+Gate: done
 
 ## Goal
 
